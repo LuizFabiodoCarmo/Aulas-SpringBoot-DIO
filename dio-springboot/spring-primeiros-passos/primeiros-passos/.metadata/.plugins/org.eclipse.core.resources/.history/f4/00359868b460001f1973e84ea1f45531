@@ -1,0 +1,15 @@
+package dio.springboot;
+
+
+
+public class Calculadora {
+
+
+
+	// Usa-se o Component, quando uma classe tem a possibidade ou finalidade ser
+	// provida através do conceito de injeção de dependências
+	
+	public int somar(int numero1, int numero2) {
+		return numero1 + numero2;
+	}
+}

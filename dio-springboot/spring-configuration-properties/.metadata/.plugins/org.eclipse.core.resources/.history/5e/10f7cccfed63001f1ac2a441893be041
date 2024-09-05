@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "remetente.telefones",
+    "type": "java.lang.String",
+    "description": "A description for 'remetente.telefones'"
+  },
+  {
+    "name": "remetente.email",
+    "type": "java.lang.String",
+    "description": "A description for 'remetente.email'"
+  }
+]}

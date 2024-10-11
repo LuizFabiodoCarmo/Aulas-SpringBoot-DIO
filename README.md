@@ -79,7 +79,7 @@ As aulas aqui neste repositório foram ministras por:
 - delete: Deleta um registro da respectiva tablea mapeada do banco de dados.
 - count: retorna a quantidade de registro de uma tablea mapeada do banco de dados.
 
-<h3 align="">Certificado do Curso</h3>
+<h3 align="">Certificado de conclusão do Curso</h3>
 <div align="">
     <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/c2c8b073-5ca8-43ea-99eb-c7fd18d3c467"/>      
 </div>

@@ -81,7 +81,8 @@ As aulas aqui neste repositório foram ministras por:
 
 <h3 align="">Certificado do Curso</h3>
 <div align="">
-    <img height="350" title="modelo curso" src="https://imgur.com/4Y1Eavt"/>      
+    <img height="350" title="modelo curso" src="https://github.com/user-attachments/assets/c2c8b073-5ca8-43ea-99eb-c7fd18d3c467"/>      
 </div>
   
+
 
